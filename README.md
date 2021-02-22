@@ -12,7 +12,7 @@ https://github.com/traveler2806/hori-refactor.git
 
 ## Website Image
 ![Module 1 Screenshot]
-("./screenshot/screenshotmodule1.png")
+(screenshotmodule1.png)
 
 ## Contribution
 Made with ❤️ by Danny Vongkunthong
